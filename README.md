@@ -24,8 +24,7 @@
  Similarly : 
 - To replace each occurence use global at the end 
 - Save directly to the file : -n 
-  
-Referrence Article : 
+
 [https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/] (REFERENCE ARTICLE) 
 
   
